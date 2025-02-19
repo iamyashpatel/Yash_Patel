@@ -1,0 +1,1 @@
+Run pipline.py after add input file and setup milvus
